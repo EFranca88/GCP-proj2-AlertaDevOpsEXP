@@ -1,4 +1,4 @@
-# Implantação de ambiente baseado em nuvem GCP via terraform
+# Criação de alerta em ambiente baseado em nuvem GCP.
 
 Neste projeto, foi criado um alerta no Console do Google Cloud Plataform.
 
